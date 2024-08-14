@@ -1,5 +1,5 @@
-# Directory Tree Generator
-
+# Directory Tree and Context File Generator for AI prompts
+ 
 This Node.js script generates a directory tree structure and optionally creates a context document containing the contents of specified files. It provides an interactive command-line interface for customizing the output.
 
 ## Features
